@@ -1,0 +1,16 @@
+.h1{
+    color: maroon;
+    text-align: center;
+} 
+.box{
+    background-color:skyblue;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    display: inline-block;
+    border: solid 2px black;
+}
+
+.boxybox{
+    text-align: center;
+}
